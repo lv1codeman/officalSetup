@@ -1,5 +1,5 @@
 <template>
-  <label for="unitId">單位</label>
+  <label for="unitId">單位2</label>
   <input id="unitId" type="text" />
 </template>
 
